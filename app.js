@@ -13,6 +13,7 @@ let image3 = document.querySelector("sections img:nth-child(3)");
 let uniqueProd1 = "uniqueProd1";
 let uniqueProd2 = "unqueProd2";
 let uniqueProd3 = "uniqueProd3";
+
 //Create a constructor function that creates an object associated with each product, and has the following properties:
 //Name of the product
 //File path of image
